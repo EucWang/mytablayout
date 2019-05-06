@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.newyear.tablayout.mytablayout;
+package com.newyear.tablayout;
 
 import android.content.Context;
 import android.content.res.TypedArray;

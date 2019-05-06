@@ -1,4 +1,4 @@
-package com.newyear.tablayout.mytablayout;
+package com.newyear.tablayout;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
