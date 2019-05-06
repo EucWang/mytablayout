@@ -107,7 +107,7 @@ bintray {
 
     configurations = ['archives']
     pkg {
-        repo = "maven"
+        repo = "mytablayout"
         name = "mytablayout"
         userOrg = "qqwwdr"
         websiteUrl = siteUrl
